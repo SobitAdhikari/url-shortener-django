@@ -14,6 +14,9 @@ A simple URL shortener built using Django.
 
 ## to run
 ## migrate the models
+    python manage.py makemigrations
+    python manage.py migrate
+
 ## run the server
     python manage.py runserver
 
