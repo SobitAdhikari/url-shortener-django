@@ -12,11 +12,11 @@ A simple URL shortener built using Django.
 - SQLite
 - Python
 
-## How to Run
-migrate the models : 
+## to run
+## migrate the models : 
      python manage.py makemigrations
      python manage.py migrate
-run the server : 
+## run the server : 
     python manage.py runserver
 
 
