@@ -13,10 +13,8 @@ A simple URL shortener built using Django.
 - Python
 
 ## to run
-## migrate the models : 
-     python manage.py makemigrations
-     python manage.py migrate
-## run the server : 
+## migrate the models
+## run the server
     python manage.py runserver
 
 
